@@ -16,3 +16,11 @@ lang: pt
 O Code Editor é uma IDE baseada na web para a API **Earth Engine JavaScript**. É requerido que faça um log com uma conta do Google que permite acesso ao Earth Engine. As funções do Code Editor são desenhadas para desenvolver complexos fluxos de trabalho geoespaciais de forma fácil e rápida. O Code Editor apresenta os seguintes elementos:
 
 ![](annotated_playground.png)
+
+## Client libraries
+
+O [**Client ibraries**](https://github.com/google/earthengine-api) promove um invólucro de funções do JavaScript e Python para o API do Earth Engine. Você pode usar ele para construir aplicações customizadas e desenvolver códigos Earth Engine localmente usando interpretadores JavaScript e Python. O repositório do GitHub inclui um número de demonstrações ilustrando como usar o Client libraries.
+
+![](trendy_lights.jpg)
+
+## Plataforma de escala planetária para dados de ciências da terra e análises
