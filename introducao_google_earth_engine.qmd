@@ -13,4 +13,6 @@ lang: pt
 
 ## Code Editor
 
-O Code Editor é uma IDE baseada na web para a API **Earth Engine JavaScript**. É requerido que faça um log com uma conta do Google que permite acesso ao Earth Engine. As funções do Code Editor são desenhadas para desenvolver complexos fluxos de trabalho geoespaciais de forma fácil e rápida.
+O Code Editor é uma IDE baseada na web para a API **Earth Engine JavaScript**. É requerido que faça um log com uma conta do Google que permite acesso ao Earth Engine. As funções do Code Editor são desenhadas para desenvolver complexos fluxos de trabalho geoespaciais de forma fácil e rápida. O Code Editor apresenta os seguintes elementos:
+
+![](annotated_playground.png)
