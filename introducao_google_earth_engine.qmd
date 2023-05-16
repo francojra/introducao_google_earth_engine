@@ -26,3 +26,11 @@ O [**Client ibraries**](https://github.com/google/earthengine-api) promove um in
 ## Plataforma de escala planetária para dados de ciências da terra e análises
 
 O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de imagens históricas e conjunto de dados científicos atualizados e expandidos diariamente.
+
+### Catálogos de dados
+
+-   **Clima e tempo**: temperatura da superfície da terra, clima, tempo, dados atmosféricos.
+
+-   **Imagens**: landsat, sentinel, MODIS, imagem de alta resolução.
+
+-   **Geofísica**: terrenos (modelos digitais de elevação), cobertura da terra (descreve classes de cobertura da paisagem como florestas, pastagens e água), terras de cultivo e outros dados geofísicos.
