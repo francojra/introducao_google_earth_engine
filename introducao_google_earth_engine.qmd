@@ -9,4 +9,8 @@ lang: pt
 
 ## Plataforma Google Earth Engine
 
-[**Google Earth Engine**](https://earthengine.google.com/) é uma plataforma de computação que permite aos usuários fazer análises geoespaciais na infraestrutura do Google. **O Code Editor** é uma IDE baseada na web para escrever e executar scripts. O **Explorer** é um aplicativo da Web leve para explorar nosso catálogo de dados e executar análises simples.
+[**Google Earth Engine**](https://earthengine.google.com/) é uma plataforma de computação que permite aos usuários fazer análises geoespaciais na infraestrutura do Google. **O Code Editor** é uma IDE baseada na web para escrever e executar scripts. O **Explorer** é um aplicativo da Web leve para explorar nosso catálogo de dados e executar análises simples. As **bibliotecas** do cliente fornecem Python e JavaScript agrupados em nossa API da web.
+
+## Code Editor
+
+O Code Editor é uma IDE baseada na web para a API **Earth Engine JavaScript**. É requerido que faça um log com uma conta do Google que permite acesso ao Earth Engine. As funções do Code Editor são desenhadas para desenvolver complexos fluxos de trabalho geoespaciais de forma fácil e rápida.
