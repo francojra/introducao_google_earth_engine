@@ -24,3 +24,5 @@ O [**Client ibraries**](https://github.com/google/earthengine-api) promove um in
 ![](trendy_lights.jpg)
 
 ## Plataforma de escala planetária para dados de ciências da terra e análises
+
+O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de imagens históricas e conjunto de dados científicos atualizados e expandidos diariamente.
