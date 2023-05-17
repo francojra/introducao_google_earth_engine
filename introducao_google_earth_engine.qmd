@@ -11,13 +11,13 @@ lang: pt
 
 [**Google Earth Engine**](https://earthengine.google.com/) é uma plataforma de computação que permite aos usuários fazer análises geoespaciais na infraestrutura do Google. **O Code Editor** é uma IDE baseada na web para escrever e executar scripts. O **Explorer** é um aplicativo da Web leve para explorar nosso catálogo de dados e executar análises simples. As **bibliotecas** **do cliente** fornecem Python e JavaScript agrupados em nossa API da web.
 
-O Google Earth Engine é uma plataforma em nuvem para análise geoespacial em escala planetária que traz recursos computacionais do Google para lidar com uma variedade de questões sociais, incluindo desmatamento, seca, desastre, doenças, segurança alimentar, gestão da água, monitoramento do clima e proteção ambiental. Reune um conjuntos de dados espaciais de satélites. O Google Earth Engine é controlado por uma API que pode ser escrita em JavaScript ou Python.
+O Google Earth Engine é uma plataforma em nuvem para análise geoespacial em escala planetária que traz recursos computacionais do Google para lidar com uma variedade de questões sociais, incluindo desmatamento, seca, desastre, doenças, segurança alimentar, gestão da água, monitoramento do clima e proteção ambiental. Reune um conjuntos de dados espaciais de satélites como as imagens do Landsat e Sentinel. O Google Earth Engine é controlado por uma API que pode ser escrita em JavaScript ou Python. Nós podemos importar nossos dados para o Google Earth Engine e compartilhar os códigos com outras pessoas.
 
 O Google Earth Engine permite aos usuários executar algoritmos em imagens georeferenciadas e vetores armazenados na infraestrutura do Google. O API do Google Earth Engine promove uma biblioteca de funções que podem ser aplicadas aos dados para apresentar e analisar. O catálogo público de dados do Earth Engine contem uma grande quantidade de imagens disponíveis publicamente e conjunto de dados de vetores. Ativos privados também podem ser criados nas pastas pessoais dos usuários.
 
 ## Code Editor
 
-O Code Editor é um ambiente interativo para desenvolvimento de aplicações Earth Engine. O centro do painel fornece um editor de código em JavaScript. Acima do editor tem botões para salvar (**`Save`**) o script, correr o código (**`Run`**) e limpar o mapa. O botão **`Get Link`** gera um único URL para obter o script. O mapa abaixo do painel contém as camadas adicionadas pelo script. No topo existe uma caixa de pesquisa para procurar conjunto de dados e lugares. No painel à esquerda, podemos ver a seção de **`Scripts`** que contem exemplos de códigos e os scripts salvos, e **`Assets`** para manejar dados privados. O painel à direita contem um **`Inspector`** para consultas sobre o mapa como pixels e coordenadas, um output **`Console`** e uma aba **`Tasks`** para gerenciamento de tarefas.
+O Code Editor é um ambiente interativo para desenvolvimento de aplicações Earth Engine. Permite análises customizadas e de alta complexidade em JavaScript ou Python. O centro do painel fornece um editor de código em JavaScript. Acima do editor tem botões para salvar (**`Save`**) o script, correr o código (**`Run`**) e limpar o mapa. O botão **`Get Link`** gera um único URL para obter o script. O mapa abaixo do painel contém as camadas adicionadas pelo script. No topo existe uma caixa de pesquisa para procurar conjunto de dados e lugares. No painel à esquerda, podemos ver a seção de **`Scripts`** que contem exemplos de códigos e os scripts salvos, e **`Assets`** para manejar dados privados. O painel à direita contem um **`Inspector`** para consultas sobre o mapa como pixels e coordenadas, um output **`Console`** e uma aba **`Tasks`** para gerenciamento de tarefas.
 
 O Code Editor é uma IDE baseada na web para a API **Earth Engine JavaScript**. É requerido que faça um log com uma conta do Google que permite acesso ao Earth Engine. As funções do Code Editor são desenhadas para desenvolver complexos fluxos de trabalho geoespaciais de forma fácil e rápida. O Code Editor apresenta os seguintes elementos:
 
@@ -35,7 +35,7 @@ O [**Client ibraries**](https://github.com/google/earthengine-api) promove um in
 
 ## Plataforma de escala planetária para dados de ciências da terra e análises
 
-O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de imagens históricas e conjunto de dados científicos atualizados e expandidos diariamente.
+O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de imagens históricas e conjunto de dados científicos atualizados e expandidos diariamente. É um catálogo de dados públicos que fornece uma variedade de conjuntos de dados *raster* relacionados à Ciências da Terra. Podemos pegar um exemplo do catálogo e usar o código que fica no final da página, ao colar o código no Code Editor do Google Earth Engine, temos acesso às informações do mapa.
 
 ### Catálogos de dados
 
@@ -44,3 +44,9 @@ O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de ima
 -   **Imagens**: landsat, sentinel, MODIS, imagem de alta resolução.
 
 -   **Geofísica**: terrenos (modelos digitais de elevação), cobertura da terra (descreve classes de cobertura da paisagem como florestas, pastagens e água), terras de cultivo e outros dados geofísicos.
+
+## Etapas inciais para o Google Earth Engine
+
+1.  Primeiro devemos fazer um cadastro no site do Google Earth Engine através do [**link**](https://earthengine.google.com) usando uma conta gmail.
+
+2.  
