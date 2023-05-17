@@ -11,6 +11,8 @@ lang: pt
 
 [**Google Earth Engine**](https://earthengine.google.com/) é uma plataforma de computação que permite aos usuários fazer análises geoespaciais na infraestrutura do Google. **O Code Editor** é uma IDE baseada na web para escrever e executar scripts. O **Explorer** é um aplicativo da Web leve para explorar nosso catálogo de dados e executar análises simples. As **bibliotecas** **do cliente** fornecem Python e JavaScript agrupados em nossa API da web.
 
+O Google Earth Engine é uma plataforma em nuvem para análise geoespacial em escala planetária que traz recursos computacionais do Google para lidar com uma variedade de questões sociais, incluindo desmatamento, seca, desastre, doenças, segurança alimentar, gestão da água, monitoramento do clima e proteção ambiental. Reune um conjuntos de dados espaciais de satélites. O Google Earth Engine é controlado por uma API que pode ser escrita em JavaScript ou Python.
+
 O Google Earth Engine permite aos usuários executar algoritmos em imagens georeferenciadas e vetores armazenados na infraestrutura do Google. O API do Google Earth Engine promove uma biblioteca de funções que podem ser aplicadas aos dados para apresentar e analisar. O catálogo público de dados do Earth Engine contem uma grande quantidade de imagens disponíveis publicamente e conjunto de dados de vetores. Ativos privados também podem ser criados nas pastas pessoais dos usuários.
 
 ## Code Editor
