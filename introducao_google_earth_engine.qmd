@@ -51,4 +51,4 @@ O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de ima
 
 2.  Utilize o Earth Engine Explorer para enterder como funciona o Google Earth Engine sem a necessidade de usar códigos. Para isso, você vai na caixa de pesquisa apresentada no top do site e coloca um lugar, um tipo de imagem de satélite ou um assunto de pesquisa como "desforestation". Usando o assunto "deforestation", clique em "more" e selecione um raster. A partir disso, você verá uma página com várias informações do raster como bandas, resolução, ID da ImageCollectio, propriedades da imagem, citação, etc.
 
-3.  Clique em
+3.  Clique em **`Open in workspace`** e visualize as informações do mapa. Aqui será apresentada uma aba com as configurações de visualização como bandas em RGB ou escala de cinza, seleção de palheta de cores, etc. Após concluir as configurações, clique em **`save`**.
