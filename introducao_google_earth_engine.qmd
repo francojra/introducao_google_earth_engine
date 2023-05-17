@@ -92,3 +92,17 @@ O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de ima
       .select(['BandaX', 'BandaY', 'BandaZ']);
     Map.addLayer(nome_da_variavel, [bands: 'BandaX, BandaY, BandaZ']);
     ```
+
+7.  Exportar imagem:
+
+    ```         
+    Export.image.toDrive([
+    image: imagem_a_ser_exportada,
+    description: 'nome_saida',
+    region: area_de_etudo,
+    scale: tamanho_pixel,
+    crs: 'SRC',
+    folder: 'nome_da_pasta',
+    maxPixels: numero_maximo_pixels
+    ])
+    ```
