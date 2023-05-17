@@ -76,11 +76,19 @@ O arquivo de dados públicos do Earth Engine inclui mais de quarenta anos de ima
 4.  Filtrar as imagens com menos nuvem:
 
     ```         
-    .filterMetadata('nome', 'operador', valor)
+      .filterMetadata('nome', 'operador', valor)
     ```
 
 5.  Filtrar o período da imagem:
 
     ```         
-    .filterDate('data-inicial', 'data-final')
+      .filterDate('data-inicial', 'data-final');
+    ```
+
+6.  Definir composição de bandas para uma imagem:
+
+    ```         
+    var nome_da_variavel = ee.Image('ID_da_imagem')
+      .select(['BandaX', 'BandaY', 'BandaZ']);
+    Map.addLayer(nome_da_variavel, [bands: 'BandaX, BandaY, BandaZ']);
     ```
