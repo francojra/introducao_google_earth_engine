@@ -3,6 +3,7 @@
 ### Autoria: Jeanne Franco
 ### Data: 16/05/2023
 
+#### Tópicos:
 1. Plataforma Google Earth Engine;
 2. Code Editor;
 3. Como usar os docs;
