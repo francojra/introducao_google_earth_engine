@@ -1,7 +1,8 @@
 # Introdução ao Google Earth Engine
 
-### Autoria: Jeanne Franco
+### Autoria do script: Jeanne Franco
 ### Data: 16/05/2023
+### Referência: https://earthengine.google.com/
 
 #### Tópicos:
 1. Plataforma Google Earth Engine;
